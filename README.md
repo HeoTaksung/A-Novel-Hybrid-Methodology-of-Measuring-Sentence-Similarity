@@ -16,6 +16,12 @@ Sentence Similarity Evaluation
 
 ## Model Structure
 
+
+<p align="center">
+	<img src="https://github.com/HeoTaksung/A-Novel-Hybrid-Methodology-of-Measuring-Sentence-Similarity/blob/main/figure.png" alt="Model" width="50%" height="50%"/>
+</p>
+
+
   * Save the predicted sentence similarity value through BERT using fine-tuning
 
   * Extracting word embedding vectors for Sentence 1 and Sentence 2 through fine-tuned BERT
