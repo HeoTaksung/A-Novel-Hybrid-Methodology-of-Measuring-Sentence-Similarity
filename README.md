@@ -34,7 +34,7 @@ Sentence Similarity Evaluation
 
 -------------------------------------------------
 
-##Result
+## Result
 
   |    Model    | Deep Learning (Pearson/Spearman)  | Hybrid (Pearson/Spearman)  |
   | :------: | :---: | :-----: |
